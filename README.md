@@ -5,7 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/@uniswap/sdk/latest.svg)](https://www.npmjs.com/package/zingswap-sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@uniswap/sdk/latest.svg)](https://bundlephobia.com/result?p=zingswap-sdk@latest)
 
-In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [swap.zing.finance](https://swap.zing.finance/docs/v2/SDK/getting-started/).
 
 ## Running tests
 
